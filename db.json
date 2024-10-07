@@ -1,5 +1,6 @@
-[
- "tickets": {
+{
+  "tickets": [
+{
     "id": 1,
     "ticketNumber": "X-24-1",
     "ownerId": 1,
@@ -90,3 +91,5 @@
     ]
   }
 ]
+
+}

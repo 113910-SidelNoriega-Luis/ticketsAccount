@@ -1,95 +1,94 @@
 {
   "tickets": [
-{
-    "id": 1,
-    "ticketNumber": "X-24-1",
-    "ownerId": 1,
-    "issueDate": "2024-10-07",
-    "expirationDate": "2024-11-10",
-    "status": "PENDING",
-    "ticketDetails": [
-      {
-        "id": 1,
-        "description": "Limpieza frente casa",
-        "amount": 5000
-      },
-      {
-        "id": 2,
-        "description": "Fine Mock",
-        "amount": 2000
-      },
-      {
-        "id": 3,
-        "description": "Fine Mock",
-        "amount": 2000
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "ticketNumber": "X-24-2",
-    "ownerId": 1,
-    "issueDate": "2024-10-07",
-    "expirationDate": "2024-11-10",
-    "status": "PENDING",
-    "ticketDetails": [
-      {
-        "id": 4,
-        "description": "Limpieza frente casa",
-        "amount": 5000
-      },
-      {
-        "id": 5,
-        "description": "Fine Mock",
-        "amount": 2000
-      },
-      {
-        "id": 6,
-        "description": "Fine Mock",
-        "amount": 2000
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "ticketNumber": "X-24-3",
-    "ownerId": 2,
-    "issueDate": "2024-10-07",
-    "expirationDate": "2024-11-10",
-    "status": "PENDING",
-    "ticketDetails": [
-      {
-        "id": 7,
-        "description": "Pintura fachada",
-        "amount": 8000
-      },
-      {
-        "id": 8,
-        "description": "Fine Mock",
-        "amount": 2000
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "ticketNumber": "X-24-4",
-    "ownerId": 3,
-    "issueDate": "2024-10-07",
-    "expirationDate": "2024-11-10",
-    "status": "PAID",
-    "ticketDetails": [
-      {
-        "id": 9,
-        "description": "Reparación cañerías",
-        "amount": 12000
-      },
-      {
-        "id": 10,
-        "description": "Fine Mock",
-        "amount": 2000
-      }
-    ]
-  }
-]
-
+    {
+      "id": 1,
+      "ticketNumber": "X-24-1",
+      "ownerId": 1,
+      "issueDate": "2024-10-07",
+      "expirationDate": "2024-11-10",
+      "status": "PENDING",
+      "ticketDetails": [
+        {
+          "id": 1,
+          "description": "Limpieza frente casa",
+          "amount": 5000
+        },
+        {
+          "id": 2,
+          "description": "Fine Mock",
+          "amount": 2000
+        },
+        {
+          "id": 3,
+          "description": "Fine Mock",
+          "amount": 2000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "ticketNumber": "X-24-2",
+      "ownerId": 1,
+      "issueDate": "2024-10-07",
+      "expirationDate": "2024-11-10",
+      "status": "PENDING",
+      "ticketDetails": [
+        {
+          "id": 4,
+          "description": "Limpieza frente casa",
+          "amount": 5000
+        },
+        {
+          "id": 5,
+          "description": "Fine Mock",
+          "amount": 2000
+        },
+        {
+          "id": 6,
+          "description": "Fine Mock",
+          "amount": 2000
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "ticketNumber": "X-24-3",
+      "ownerId": 2,
+      "issueDate": "2024-10-07",
+      "expirationDate": "2024-11-10",
+      "status": "PENDING",
+      "ticketDetails": [
+        {
+          "id": 7,
+          "description": "Pintura fachada",
+          "amount": 8000
+        },
+        {
+          "id": 8,
+          "description": "Fine Mock",
+          "amount": 2000
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "ticketNumber": "X-24-4",
+      "ownerId": 3,
+      "issueDate": "2024-10-07",
+      "expirationDate": "2024-11-10",
+      "status": "PAID",
+      "ticketDetails": [
+        {
+          "id": 9,
+          "description": "Reparación cañerías",
+          "amount": 12000
+        },
+        {
+          "id": 10,
+          "description": "Fine Mock",
+          "amount": 2000
+        }
+      ]
+    }
+  ]
 }
